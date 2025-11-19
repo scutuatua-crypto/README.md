@@ -13,5 +13,6 @@ cd scutuatua-crypto
 
 ## Badges
 ![Profile](https://img.shields.io/badge/Profile-Active-green.svg)
+
 git add README.md
 git commit -m "docs: add README template"
