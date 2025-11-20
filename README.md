@@ -17,3 +17,21 @@ cd scutuatua-crypto
 
 git add README.md
 git commit -m "docs: add README template"
+# 🐋 Scutuatua-Crypto — Reef Architect Repo
+
+Welcome to the **WhaleTrucker Reef Identity** repo.  
+This project celebrates every commit as a ritual, every branch as a reef, and every PR as a legacy moment.
+
+---
+
+## 🚀 Badges
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Commits](https://img.shields.io/badge/commits-20-orange)
+![Language](https://img.shields.io/badge/typescript-100%25-lightblue)
+
+---
+
+## 📖 Splash Log
+```markdown
+🧭 splash.log — README template injected, badge trace activated, reef identity visible
