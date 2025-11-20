@@ -31,7 +31,3 @@ This project celebrates every commit as a ritual, every branch as a reef, and ev
 ![Language](https://img.shields.io/badge/typescript-100%25-lightblue)
 
 ---
-
-## 📖 Splash Log
-```markdown
-🧭 splash.log — README template injected, badge trace activated, reef identity visible
