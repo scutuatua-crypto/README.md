@@ -31,3 +31,17 @@ This project celebrates every commit as a ritual, every branch as a reef, and ev
 ![Language](https://img.shields.io/badge/typescript-100%25-lightblue)
 
 ---
+## 📦 External Files
+
+Some large artifacts are stored externally to keep this repo light and safe.  
+You can download them from the following links:
+
+- **Dropbox** → [Node.js v24/v25 installers](https://www.dropbox.com/scl/fo/h40l2xbk9z4mfxr31jxy9/AGgJQ1K30T6X0sGuKhMc_dM?rlkey=tw0yonvy3xhcjt4zm1cvtk3g0&st=x2oruu4v&dl=0)  
+- **Google Drive** → *(insert your link here)*  
+- **OneDrive** → *(insert your link here)*  
+
+---
+
+📖 splash.log
+```markdown
+📦 splash.log — External files offloaded, Dropbox link injected, repo identity stays light and safe
