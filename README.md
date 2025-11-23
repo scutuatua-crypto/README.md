@@ -29,6 +29,7 @@ This project celebrates every commit as a ritual, every branch as a reef, and ev
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Commits](https://img.shields.io/badge/commits-20-orange)
 ![Language](https://img.shields.io/badge/typescript-100%25-lightblue)
+![Mint Status](https://byob.yarr.is/scutuatua-crypto/czonedive-core/reef-mint)
 
 ---
 ## 📦 External Files
