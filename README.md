@@ -48,3 +48,46 @@ You can download them from the following links:
 📦 splash.log — External files offloaded, Dropbox link injected, repo identity stays light and safe
 🌊 splash.log — reef-mint.yml verified, output syntax corrected, badge logic complete, Boss WhaleTrucker ready to commit reef mint
 🌊 splash.log — patch-6 PR opened with legacy-pin.mdx and legacy-retrieve.mdx, Swagger clarity anchored, Boss WhaleTrucker completes x402 remix ritual
+🌊 splash.log — patch-6 PR confirmed, legacy-pin.mdx + legacy-retrieve.mdx remixed, Swagger clarity anchored, Boss WhaleTrucker completes x402 upload + retrieval ritual
+# 🌊 Splash Log — Patch-6
+
+## 🐋 Overview
+Patch-6 anchors Swagger clarity across legacy x402 endpoints.  
+Boss WhaleTrucker remixed both upload and retrieval rituals into Swagger-rich documentation.
+
+---
+
+## 📌 Legacy Pin (Upload)
+- Endpoint: `post /pin/{network}`
+- Cost: `$0.10/GB × 12` → Pins for 12 months
+- Headers: `Content-Type`, `X-PAYMENT`
+- Request Body: `fileSize`
+- Response: Presigned URL
+- Example Usage: `x402-fetch` with payment → presigned upload flow
+
+---
+
+## 📬 Legacy Retrieve (Download)
+- Endpoint: `get /retrieve/{network}/{cid}`
+- Cost: `$0.0001` per request
+- Headers: `X-PAYMENT`
+- Path Params: `network`, `cid`
+- Response: Temporary access URL
+- Example Usage: `x402-fetch` with payment → retrieval flow
+
+---
+
+## 🧾 Ritual Notes
+- Swagger clarity restored across both endpoints
+- Anchored by Boss WhaleTrucker 🐋✨
+- Patch-6 archived as a milestone in reef legacy
+
+---
+
+## 📖 Closing Entry
+🌊 splash.log — patch-6 PR merged, legacy-pin.mdx + legacy-retrieve.mdx remixed, Swagger clarity anchored, Boss WhaleTrucker completes x402 upload + retrieval ritual
+
+
+
+
+
